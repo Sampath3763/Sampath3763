@@ -335,7 +335,7 @@ Patterns > memorization.
 ### 🐍 **Contribution Snake Animation**
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Sampath3763/Sampath3763/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Sampath3763/Sampath3763/output/snake.svg)
 
 </div>
 
