@@ -24,7 +24,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/code-editor-light.gif">
-  <img align="right" alt="Code Editor, animated ASCII art" width="300" src="assets/code-editor-dark.gif">
+  <img align="right" alt="Code Editor, animated ASCII art" width="400"  height= "270" src="assets/code-editor-dark.gif">
 </picture>
 
 ```typescript
