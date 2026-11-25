@@ -402,8 +402,8 @@ Available For:
 ### 🎯 **Call to Action**
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-link.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/your-resume-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sampathkumar.me)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1t4CwbrYAv8W_piSkz-q9tBH84j18S4_a/view)
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-00C853?style=for-the-badge&logo=upwork&logoColor=white)](mailto:chinthasampath3763@gmail.com)
 
 **📧 Email:** [chinthasampath3763@gmail.com](mailto:chinthasampath3763@gmail.com)  
