@@ -340,6 +340,7 @@ Patterns > memorization.
 
 ![Snake animation](https://raw.githubusercontent.com/Sampath3763/Sampath3763/output/snake.svg)
 
+
 </div>
 
 ### 📊 **Contribution Activity Graph**
