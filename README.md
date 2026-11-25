@@ -22,7 +22,10 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/code-editor-light.gif">
+  <img align="right" alt="Code Editor, animated ASCII art" width="300" src="assets/code-editor-dark.gif">
+</picture>
 
 ```typescript
 const sampath = {
